@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ymq:home|Door43 (ymq)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ymq|d43-ymq repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ymq/archive/master.zip|d43-ymq.zip]]
+
+**Recent Changes**
+{{changes>ns = ymq}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ymq|Ethnologue data]]
+
